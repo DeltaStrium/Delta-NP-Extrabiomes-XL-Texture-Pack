@@ -8,8 +8,8 @@ We at DeltaStrium will be continuing to update this pack for the foreseeable fut
 Credits:
 ================
 * MisterFiber & The Extrabiomes Xl Team [For creating ExtrabiomesXL Mod]
-* Scuttles [FFor his door frame texture]
 * Nuttyprot [for Creating the textures][Retired From Texturing
+* Wreckage [For His Texture Contributions]
 * DrakeBD [Editing and Creating the pack]
 
 Licensing:

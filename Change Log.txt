@@ -1,4 +1,15 @@
 Change Log:
+V1.3
+Cleaned artiacts around some of the textures
+Removed LB door Frames
+Added New Door
+Added New Leaf
+Added New Wood
+Added New Redrock Bricks
+Added New Redrock Slabs
+Added New Redrock Cobblestone
+Added New Door Items
+Plus Other Tweaks
 V1.2
 Backported to 1.6.4 MC
 V1.1
