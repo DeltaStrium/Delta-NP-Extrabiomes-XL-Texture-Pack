@@ -1,4 +1,7 @@
 Change Log:
+V1.4
+Updated Wood Planks
+Updated Doors
 V1.3
 Cleaned artiacts around some of the textures
 Removed LB door Frames
